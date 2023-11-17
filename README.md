@@ -1,7 +1,7 @@
 ![](https://imgur.com/EjeXd1T.png)
 ### Oh hi there
 
-I'm a Swiss student with a computer sciences degree from the HE-Arc Ingénierie 🇨🇭 and the Université de Sherbrooke 🇨🇦.  
+I'm a Swiss student with a CS degree from the HE-Arc Ingénierie 🇨🇭 and the Université de Sherbrooke 🇨🇦.
 I have leared stuff about Artificial Intelligence and Computer Graphics. I'm currently working on game development with the [godot engine](https://godotengine.org)
 
 💻 https://codelta.ch  
